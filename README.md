@@ -5,7 +5,7 @@
 Este projeto contém um programa desenvolvido em **Java** que implementa **5 problemas diferentes** envolvendo matrizes bidimensionais. O objetivo é praticar operações matemáticas, análise de elementos e manipulação de arrays, com uma interface interativa via console que permite ao usuário escolher qual problema executar através de um **menu intuitivo**.
 
 ---
-## 📚 Conceitos de Programação Abordados
+## 📚 Conceitos Abordados
 
 - ✅ Declaração e inicialização de matrizes (int[][] e double[][])
 - ✅ Loops aninhados (for dentro de for)
