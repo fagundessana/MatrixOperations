@@ -59,6 +59,7 @@ Escolha uma opção:
 ### 3️⃣ Problema 3: Matriz 5x5 - Múltiplas Somas
 
 <img width="377" height="735" alt="image" src="https://github.com/user-attachments/assets/9be9382c-5de5-4f19-a28c-06ccca8b365a" />
+
 <img width="356" height="328" alt="image" src="https://github.com/user-attachments/assets/a731c8ad-eeb7-4ab4-a129-82b71643e96c" />
 
 > **Figura 1 e 2:** Exercício 3 em funcionamento
